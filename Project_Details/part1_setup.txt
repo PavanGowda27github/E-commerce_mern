@@ -1,0 +1,14 @@
+MERN Setup + Folder Structure
+
+Frontend
+---------
+vite + react Setup
+tailwind or custom css Setup
+folder strucutre: pages,components,hooks,api
+
+
+Backend
+--------
+express init
+mongoDB connection
+Basic route + server test

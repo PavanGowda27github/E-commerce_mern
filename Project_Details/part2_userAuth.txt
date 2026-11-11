@@ -1,0 +1,14 @@
+User Auth(Signup)
+-----------------
+
+Backend
+---------
+user model
+signup controller
+password hashing (bcrypt)
+
+Frontend
+---------
+signup ui
+axios instance
+show success/error messages
