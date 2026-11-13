@@ -1,0 +1,15 @@
+User Auth (Login+JWT)
+---------------------
+
+
+backend
+----------
+login route
+JWT generate (we need install library jsonwentoken)
+Middleware create
+
+frontend
+----------
+login UI
+store JWT in localStorage
+Redirect to home

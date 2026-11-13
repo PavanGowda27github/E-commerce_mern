@@ -5,7 +5,7 @@ Backend
 ---------
 user model
 signup controller
-password hashing (bcrypt)
+password hashing (bcrypt) (we need install library bcrypt)
 
 Frontend
 ---------
