@@ -1,0 +1,10 @@
+Admin:Product Management(backend only)
+--------------------------
+
+Backend
+--------
+
+product model
+add product api
+update/delete api
+get all products api (admin)
