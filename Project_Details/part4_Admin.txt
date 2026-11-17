@@ -8,3 +8,11 @@ product model
 add product api
 update/delete api
 get all products api (admin)
+
+
+Frontend
+---------
+
+add product page
+edit product form
+product list table
