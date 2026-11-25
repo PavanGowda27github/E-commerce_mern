@@ -1,0 +1,18 @@
+Customer Store UI
+-------------------
+
+Frontend
+---------
+
+homepage
+product grid
+product details page
+category filter
+search bar
+
+
+Backend
+--------
+
+dynamic products api
+query filters
