@@ -1,0 +1,10 @@
+Cart System (Backend)
+-----------------------
+
+Backend
+--------
+cart model
+add to cart route
+remove item route
+update quantity route
+auto populate product details
